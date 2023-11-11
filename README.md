@@ -1,4 +1,4 @@
-# Clustering Project
+# Sport Cars Clustering Project
 
 This project is part of the Data Science course MADS-MMS (Mathematics and Multivariate Statistics).
 
